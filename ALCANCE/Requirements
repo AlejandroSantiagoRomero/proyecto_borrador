@@ -1,0 +1,15 @@
+###Alcanze del proyecto
+#Tareas que mi proyecto llevara acabo:
+-Permite logarse a los beneficiarios y consultar los talleres disponibles, plazas,horarios,etc.
+-Los beneficiarios podrán solicitar la matriculacion en alguno de los talleres.
+-los colaboradores logarse y cambiar sus caracteristicas, nuevas habilidades, modificar su disponibilidd, etc
+-Remitira correo electronico a los beneficiarios con los datos de la reserva que han hecho.
+-Se podrá sacar listas de cada taller
+-Se podra sacar un listado de los colaboradores que pueden impartir un taller en un horario determinado.
+-Añadir nuevos talleres.
+-Modificar los detalles de los talleres (Horarioa, Colaboradores, etc).
+-Imprimira diplomas con los datos de los alumnos.
+-Permitira enviar correos masivos con ofertas con nuevos talleres.
+-Permitira que los alumnos valores cada uno de los talleres (feedback).
+-Se habilitara un blog para que los usuarios puedan realizar comentarios.
+-Se habilitara un calendario con las fechas y horarios de los talleres
